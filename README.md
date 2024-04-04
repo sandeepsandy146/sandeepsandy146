@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
-### 👀 I’m interested in coding. 
+### 👀 I’m interested in web development. 
 
 ### 🌱 I’m currently learning Non sql Databases [mongodb]. 
 
